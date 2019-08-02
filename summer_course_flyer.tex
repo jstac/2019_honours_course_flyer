@@ -1,0 +1,196 @@
+\documentclass[12pt]{article}	
+\usepackage[T1]{fontenc}
+\usepackage{fourier}
+
+%\usepackage[english]{babel}															% English language/hyphenation
+%\usepackage[protrusion=true,expansion=true]{microtype}				% Better typography
+
+\usepackage{amsmath,amsfonts,amsthm}										% Math packages
+\usepackage{graphicx}														% Enable pdflatex
+\usepackage{hyperref}
+
+\hypersetup{
+    colorlinks=true,       % false: boxed links; true: colored links
+    linkcolor=red,          % color of internal links (change box color with linkbordercolor)
+    citecolor=green,        % color of links to bibliography
+    filecolor=magenta,      % color of file links
+    urlcolor=blue           % color of external links
+}
+
+\renewcommand{\baselinestretch}{1.2}
+% skip a line between paragraphs, no indentation
+\setlength{\parskip}{1.5ex plus0.5ex minus0.5ex}
+\setlength{\parindent}{0pt}
+
+%%% Custom sectioning (sectsty package)
+%\usepackage{sectsty}												% Custom sectioning (see below)
+%\allsectionsfont{\centering \normalfont\scshape}	% Change font of al section commands
+
+
+%%% Custom headers/footers (fancyhdr package)
+\usepackage{fancyhdr}
+\pagestyle{fancyplain}
+\fancyhead{}		
+\fancyhead[L]{ }
+\fancyhead[R]{ \includegraphics[width=1.5cm]{qe-logo.png} }
+\fancyfoot[L]{}	% You may remove/edit this line 
+\fancyfoot[C]{}													% Empty
+\fancyfoot[R]{\thepage}									% Pagenumbering
+\renewcommand{\headrulewidth}{0.3pt}			% Remove header underlines
+\renewcommand{\footrulewidth}{0.3pt}				% Remove footer underlines
+\setlength{\headheight}{28pt}
+\setlength{\footskip}{28pt}
+% 
+%\usepackage{enumitem}
+%\setlist[enumerate]{itemsep=0pt,topsep=2pt}
+%\setlist[itemize]{itemsep=0pt,topsep=2pt}
+%\setlist[enumerate,1]{label=(\roman*)}
+
+
+%%% Equation and float numbering
+\numberwithin{equation}{section}		% Equationnumbering: section.eq#
+%\numberwithin{figure}{section}			% Figurenumbering: section.fig#
+\numberwithin{table}{section}				% Tablenumbering: section.tab#
+
+
+%%% Maketitle metadata
+\newcommand{\horrule}[1]{\rule{\linewidth}{#1}} 	% Horizontal rule
+
+\title{
+		%\vspace{-1in} 	
+		\usefont{OT1}{bch}{b}{n}
+		\normalfont \normalsize \textsc{Summer Course for Economics Students and Policy Professionals} \\ [25pt]
+		\horrule{1pt} \\[0.4cm]
+		\huge QuantEcon-RSE Intensive Course in Computational Modeling \\
+        \vspace{1em}
+		\large Australian National University\\
+		\large December 2019\\
+		\horrule{1pt} \\[0.5cm]
+}
+\author{
+		\normalfont \normalsize
+        Co-Organizers: John Stachurski and Sebastian Wende \\[-3pt]		\normalsize
+        %\today
+}
+\date{}
+
+
+%%% Begin document
+\begin{document}
+
+\maketitle
+
+
+
+
+\begin{center}
+    \vspace{-2em}
+    \includegraphics[width=2cm]{anu-logo-2.png}
+    \vspace{1em}
+
+    \begin{tabular}{ l  r r l}
+        \textbf{Dates} & & &  16th--20th December, 2019\\
+        \textbf{Location} & & &  Canberra \\
+        \textbf{Primary Sponsor} & & &  Research School of Economics \\
+        \textbf{Additional Sponsors} & & &  TBA \\
+        \textbf{Academic Contact} & & & \texttt{<john.stachurski@anu.edu.au>} \\
+        \textbf{Administrative Contact} & & & \texttt{<nicole.millar@anu.edu.au>} \\
+    \end{tabular}
+\end{center}
+
+\bigskip
+\bigskip
+
+\noindent 
+This one week summer course for advanced undergraduate students and policy
+professionals will provide training in cutting edge computational modeling for
+economic analysis.  Intake is highly selective and all university students
+accepted to the program will be fully funded.  The course will also provide a
+forum for students to interact with policy professionals from the Treasury,
+the Productivity Commission, the Reserve Bank of Australia and other leading
+institutions.
+
+The motivation for this short course is that computationally
+intensive models are increasingly being used for applied policy analysis.
+As a result, economic modeling now requires strong computational skills.  For example, many
+computational models in economics are built on top of an optimal choice
+framework called dynamic programming, which is used in contexts such as fiscal
+and monetary policy, as well as analyses of industry-specific policy including
+water in the Murray-Darling Basin (Grafton, Chu, Stewardson and Kompas 2011)
+and energy demand and supply (Rinkjob, Haugan and Solbrekke
+2018).  State-of-the-art dynamic programming is computationally intensive and
+     intellectually demanding.
+
+This one-week intensive course will establish a baseline competency in
+those computational methods required to apply dynamic programming and other
+related techniques for the purpose of public
+policy analysis. The skills gained will be
+directly useful for public policy practitioners. For students, the course will
+provide a basis for further study and research, a chance to meet and discuss
+in-demand skills with policy professionals, and a demonstrable
+applied skill for prospective job applications. It will build the
+pool of talent available to public policy institutions requiring computational
+economic modeling.
+
+
+
+\subsection*{Goals}
+
+The goal of this course is to 
+%
+\begin{enumerate}
+    \item develop capacity in computational modelling for the analysis of Australian economic data,
+    \item grow interest in computational economics in order to encourage students to
+        undertake further research and learning in the area, and 
+    \item build bridges between academic economists, students and Australia's
+        leading policy institutions.
+\end{enumerate}
+
+
+
+\subsection*{Instructors}
+
+The primary instructor is John Stachurski.  Guest lecturers will include
+Dr.\ Fedor Iskhakov (ANU) and policy professionals (TBA).
+
+
+\subsection*{Structure}
+
+The structure of the course for its one week duration will be as follows:
+
+\begin{itemize}
+    \item 9am-12pm: Lectures
+    \item 1pm-5pm: Group exercises 
+\end{itemize}
+
+There will also be a social event sponsored by the Research School of
+Economics, as well as presentations from representatives of leading policy
+institutions on economic modeling in practice.
+
+
+\subsection*{Course Content}
+
+The coding language of instruction will be Python, which is rapidly rising
+in popularity for scientific computing, artificial intelligence and machine
+learning.  The course will cover the following topics:
+
+\begin{itemize}
+    \item Python and its scientific libraries
+    \item Dynamic models and distributions
+    \item Dynamic programming and optimization
+    \item Basic principles of software engineering
+    \item Introduction to high performance computing
+\end{itemize}
+
+Applications will be drawn from macroeconomics, finance and applied
+microeconomics.
+
+\subsection*{Prerequisite Knowledge}
+
+Attendees will require familiarity with calculus and linear algebra.
+All attendees should have a strong interest in computing.
+
+
+
+
+\end{document}
