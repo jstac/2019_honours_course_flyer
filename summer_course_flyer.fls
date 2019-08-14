@@ -1,4 +1,4 @@
-PWD /home/john/sync_dir/quantecon/workshops/2019_honours_bootcamp
+PWD /home/john/sync_dir/quantecon/workshops/summer_course_2019/flyer_repo
 INPUT /usr/share/texmf-dist/web2c/texmf.cnf
 INPUT /var/lib/texmf/web2c/xetex/xelatex.fmt
 INPUT summer_course_flyer.tex
@@ -53,6 +53,8 @@ INPUT /usr/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 INPUT /usr/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 INPUT /usr/share/texmf-dist/tex/latex/graphics-def/xetex.def
 INPUT /usr/share/texmf-dist/tex/latex/graphics-def/xetex.def
+INPUT /usr/share/texmf-dist/tex/latex/natbib/natbib.sty
+INPUT /usr/share/texmf-dist/tex/latex/natbib/natbib.sty
 INPUT /usr/share/texmf-dist/tex/latex/hyperref/hyperref.sty
 INPUT /usr/share/texmf-dist/tex/latex/hyperref/hyperref.sty
 INPUT /usr/share/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
@@ -184,6 +186,12 @@ INPUT qe-logo.png
 INPUT /usr/share/texmf-dist/tex/latex/fourier/ts1futs.fd
 INPUT /usr/share/texmf-dist/tex/latex/fourier/ts1futs.fd
 INPUT /usr/share/texmf-dist/fonts/tfm/public/fourier/futr8c.tfm
+INPUT qe-logo.png
+INPUT summer_course_flyer.bbl
+INPUT summer_course_flyer.bbl
+INPUT /usr/share/texmf-dist/fonts/tfm/public/fourier/futr8t.tfm
+INPUT /usr/share/texmf-dist/fonts/tfm/public/fourier/futb8t.tfm
+INPUT /usr/share/texmf-dist/fonts/tfm/public/fourier/futri8t.tfm
 INPUT qe-logo.png
 INPUT qe-logo.png
 INPUT summer_course_flyer.aux
