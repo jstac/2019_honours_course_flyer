@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex summer_course_flyer"] 1565825315 "summer_course_flyer.aux" "summer_course_flyer.bbl" "summer_course_flyer" 1565825689
+["bibtex summer_course_flyer"] 1565825315 "summer_course_flyer.aux" "summer_course_flyer.bbl" "summer_course_flyer" 1566090115
   "/usr/share/texmf-dist/bibtex/bst/beebe/apa.bst" 1557554301 23582 e3c8338eb1efb7432441aa8861285f53 ""
   "bib.bib" 1565825297 2759 dc46ee78aa1bc8398e1be5ac0f86b433 ""
-  "summer_course_flyer.aux" 1565825689 818 60480d4099b465fbe8377f3a0fee15f5 "pdflatex"
+  "summer_course_flyer.aux" 1566090115 818 60480d4099b465fbe8377f3a0fee15f5 "pdflatex"
   (generated)
   "summer_course_flyer.blg"
   "summer_course_flyer.bbl"
-["pdflatex"] 1565825688 "summer_course_flyer.tex" "summer_course_flyer.pdf" "summer_course_flyer" 1565825689
+["pdflatex"] 1566090114 "summer_course_flyer.tex" "summer_course_flyer.pdf" "summer_course_flyer" 1566090115
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1557554374 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/share/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1557554374 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/share/texmf-dist/fonts/tfm/bitstrea/charter/bchb7t.tfm" 1557554374 2732 006d846b4d54f9b40899c7c3eecd771a ""
@@ -25,7 +25,6 @@
   "/usr/share/texmf-dist/fonts/tfm/public/fourier/futri8t.tfm" 1557554766 16416 afc29352777063eec9d207ab744c06f5 ""
   "/usr/share/texmf-dist/fonts/tfm/public/fourier/futsy.tfm" 1557554766 2072 49145300fcadcc756b7349fc6e6c8913 ""
   "/usr/share/texmf-dist/fonts/tfm/public/lm/ec-lmr12.tfm" 1557554374 12092 7b1546e2d096cfd5dcbd4049b0b1ec2e ""
-  "/usr/share/texmf-dist/fonts/tfm/public/lm/ec-lmtt12.tfm" 1557554374 1368 6a60e6a5e029141041d64d339b87e533 ""
   "/usr/share/texmf-dist/tex/generic/ifxetex/ifxetex.sty" 1557554374 1458 43ab4710dc82f3edeabecd0d099626b2 ""
   "/usr/share/texmf-dist/tex/generic/oberdiek/gettitlestring.sty" 1557554374 8237 3b62ef1f7e2c23a328c814b3893bc11f ""
   "/usr/share/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty" 1557554374 185392 b99a6d53180e04300c35e18725f31231 ""
@@ -72,7 +71,6 @@
   "/usr/share/texmf-dist/tex/latex/hyperref/puenc.def" 1557554374 122411 537c1e113664b098b6572dbc27a726af ""
   "/usr/share/texmf-dist/tex/latex/latexconfig/hyperref.cfg" 1557554374 235 6031e5765137be07eed51a510b2b8fb7 ""
   "/usr/share/texmf-dist/tex/latex/lm/t1lmr.fd" 1557554374 1865 afbfccbe7fda9c2dc5078ad7c486bbed ""
-  "/usr/share/texmf-dist/tex/latex/lm/t1lmtt.fd" 1557554374 2681 354015af3b61e7be30009f084986375a ""
   "/usr/share/texmf-dist/tex/latex/natbib/natbib.sty" 1557554374 45456 1c8843383c0bd05870c45fa0ebea6cc2 ""
   "/usr/share/texmf-dist/tex/latex/oberdiek/auxhook.sty" 1557554374 3834 4363110eb0ef1eb2b71c8fcbcdb6c357 ""
   "/usr/share/texmf-dist/tex/latex/oberdiek/kvoptions.sty" 1557554374 22417 1d9df1eb66848aa31b18a593099cf45c ""
@@ -83,12 +81,12 @@
   "/var/lib/texmf/web2c/xetex/xelatex.fmt" 1563694737 4111442 9c8b7a8fbfe06da5870f221989b40bc3 ""
   "anu-logo-2.png" 1564598320 20066 bda2ae36c93640631055a2f5ae24fafd ""
   "qe-logo.png" 1563845455 1351 f308a0650d953a0e7068b583dbe6dd1a ""
-  "summer_course_flyer.aux" 1565825689 818 60480d4099b465fbe8377f3a0fee15f5 "pdflatex"
+  "summer_course_flyer.aux" 1566090115 818 60480d4099b465fbe8377f3a0fee15f5 "pdflatex"
   "summer_course_flyer.bbl" 1565825315 690 4f26507de7a1dcd7c6d5882b7f1772c5 "bibtex summer_course_flyer"
-  "summer_course_flyer.out" 1565825689 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "summer_course_flyer.tex" 1565825688 7525 f3a17fa8af7cfd015763127d60848ef5 ""
+  "summer_course_flyer.out" 1566090115 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "summer_course_flyer.tex" 1566090114 7557 ce736a89a07fdebbef4dc0663008866f ""
   (generated)
-  "summer_course_flyer.pdf"
-  "summer_course_flyer.aux"
   "summer_course_flyer.out"
   "summer_course_flyer.log"
+  "summer_course_flyer.aux"
+  "summer_course_flyer.pdf"
