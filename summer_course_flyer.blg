@@ -1,46 +1,46 @@
-This is BibTeX, Version 0.99d (TeX Live 2019/Arch Linux)
+This is BibTeX, Version 0.99d (TeX Live 2018/Arch Linux)
 Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: summer_course_flyer.aux
 The style file: apa.bst
 Database file #1: bib.bib
-You've used 2 entries,
+You've used 4 entries,
             1940 wiz_defined-function locations,
-            489 strings with 4211 characters,
-and the built_in function-call counts, 817 in all, are:
-= -- 74
-> -- 41
-< -- 0
-+ -- 16
-- -- 14
-* -- 76
-:= -- 151
-add.period$ -- 6
-call.type$ -- 2
-change.case$ -- 17
-chr.to.int$ -- 2
-cite$ -- 2
-duplicate$ -- 27
-empty$ -- 51
-format.name$ -- 16
-if$ -- 151
+            501 strings with 4441 characters,
+and the built_in function-call counts, 1488 in all, are:
+= -- 135
+> -- 72
+< -- 1
++ -- 26
+- -- 24
+* -- 132
+:= -- 272
+add.period$ -- 12
+call.type$ -- 4
+change.case$ -- 31
+chr.to.int$ -- 4
+cite$ -- 4
+duplicate$ -- 55
+empty$ -- 97
+format.name$ -- 30
+if$ -- 280
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 2
-newline$ -- 13
-num.names$ -- 6
-pop$ -- 13
+missing$ -- 6
+newline$ -- 23
+num.names$ -- 12
+pop$ -- 32
 preamble$ -- 1
-purify$ -- 17
+purify$ -- 32
 quote$ -- 0
-skip$ -- 22
+skip$ -- 41
 stack$ -- 0
-substring$ -- 47
-swap$ -- 4
+substring$ -- 71
+swap$ -- 8
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 12
+type$ -- 20
 warning$ -- 0
-while$ -- 5
+while$ -- 9
 width$ -- 0
-write$ -- 28
+write$ -- 53

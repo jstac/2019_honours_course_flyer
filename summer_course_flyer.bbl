@@ -6,10 +6,20 @@ Grafton, R., Chu, L., Stewardson, M., and Kompas, T. (2011).
   environmental tradeoffs in the murray river, australia.
 \newblock {\em Water Resources Research - WATER RESOUR RES}, 47.
 
-\bibitem[\protect\astroncite{Ringkjøb et~al.}{2018}]{Ringkjob2018}
-Ringkjøb, H.-K., Haugan, P.~M., and Solbrekke, I.~M. (2018).
+\bibitem[\protect\astroncite{Ljungqvist and Sargent}{2018}]{LS18}
+Ljungqvist, L. and Sargent, T.~J. (2018).
+\newblock {\em Recursive Macroeconomic Theory}.
+\newblock MIT Press, fourth edition.
+
+\bibitem[\protect\astroncite{RingkjÃ¸b et~al.}{2018}]{Ringkjob2018}
+RingkjÃ¸b, H.-K., Haugan, P.~M., and Solbrekke, I.~M. (2018).
 \newblock A review of modelling tools for energy and electricity systems with
   large shares of variable renewables.
 \newblock {\em Renewable and Sustainable Energy Reviews}, 96(C):440--459.
+
+\bibitem[\protect\astroncite{Stokey et~al.}{1989}]{SLP89}
+Stokey, N.~L., Lucas, R.~E., and Prescott, E.~C. (1989).
+\newblock {\em Recursive Methods in Economic Dynamics}.
+\newblock Harvard University Press.
 
 \end{thebibliography}
