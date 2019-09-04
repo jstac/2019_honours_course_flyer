@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018/Arch Linux) (preloaded format=xelatex 2019.3.20)  21 AUG 2019 13:13
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018/Arch Linux) (preloaded format=xelatex 2019.3.20)  2 SEP 2019 12:32
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -584,27 +584,33 @@ Overfull \hbox (3.08357pt too wide) in paragraph at lines 162--165
 File: qe-logo.png Graphic file (type bmp)
 <qe-logo.png>
 [3]
-Overfull \hbox (39.93542pt too wide) in paragraph at lines 209--210
+Overfull \hbox (5.49551pt too wide) in paragraph at lines 197--206
+\T1/futs/m/n/12 and com-pu-ta-tional meth-ods, their fu-ture plans, and why they be-lieve they would
+ []
+
+
+Overfull \hbox (39.93542pt too wide) in paragraph at lines 211--212
 \T1/futs/m/n/12 The ad-min-is-tra-tive con-tact for this course is Nicole Mil-lar via [][]nicole.millar@anu.edu.au[][]. 
  []
 
 (./summer_course_flyer.bbl
-LaTeX Font Info:    Font shape `T1/futs/bx/n' in size <17.28> not available
-(Font)              Font shape `T1/futs/b/n' tried instead on input line 1.
 File: qe-logo.png Graphic file (type bmp)
 <qe-logo.png>
- [4])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 216.
+ [4]
+LaTeX Font Info:    Font shape `T1/futs/bx/n' in size <17.28> not available
+(Font)              Font shape `T1/futs/b/n' tried instead on input line 1.
+)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 218.
 File: qe-logo.png Graphic file (type bmp)
 <qe-logo.png>
  [5]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 216.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 218.
  (./summer_course_flyer.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 216.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 216.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 218.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 218.
 Package rerunfilecheck Info: File `summer_course_flyer.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 216.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 218.
  ) 
 Here is how much of TeX's memory you used:
  10028 strings out of 492933
@@ -613,6 +619,6 @@ Here is how much of TeX's memory you used:
  13957 multiletter control sequences out of 15000+600000
  89174 words of font info for 75 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 28i,12n,43p,245b,429s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 28i,12n,43p,245b,410s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on summer_course_flyer.pdf (5 pages).

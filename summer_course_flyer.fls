@@ -186,10 +186,10 @@ INPUT /usr/share/texmf-dist/fonts/tfm/public/fourier/futr8c.tfm
 INPUT qe-logo.png
 INPUT summer_course_flyer.bbl
 INPUT summer_course_flyer.bbl
+INPUT qe-logo.png
 INPUT /usr/share/texmf-dist/fonts/tfm/public/fourier/futr8t.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/fourier/futb8t.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/fourier/futri8t.tfm
-INPUT qe-logo.png
 INPUT qe-logo.png
 INPUT summer_course_flyer.aux
 INPUT ./summer_course_flyer.out

@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex summer_course_flyer"] 1566357195 "summer_course_flyer.aux" "summer_course_flyer.bbl" "summer_course_flyer" 1566357196
+["bibtex summer_course_flyer"] 1566357195 "summer_course_flyer.aux" "summer_course_flyer.bbl" "summer_course_flyer" 1567391527
   "/usr/share/texmf-dist/bibtex/bst/beebe/apa.bst" 1550405455 23582 e3c8338eb1efb7432441aa8861285f53 ""
-  "bib.bib" 1566357152 3306 0204a5e02cfede728fc210985b8b9640 ""
-  "summer_course_flyer.aux" 1566357196 954 cc3e43abadad2969467dbd1a8bc563ec ""
+  "bib.bib" 1567390368 3306 0204a5e02cfede728fc210985b8b9640 ""
+  "summer_course_flyer.aux" 1567391527 954 cc3e43abadad2969467dbd1a8bc563ec ""
   (generated)
-  "summer_course_flyer.blg"
   "summer_course_flyer.bbl"
-["pdflatex"] 1566357195 "summer_course_flyer.tex" "summer_course_flyer.pdf" "summer_course_flyer" 1566357196
+  "summer_course_flyer.blg"
+["pdflatex"] 1567391526 "summer_course_flyer.tex" "summer_course_flyer.pdf" "summer_course_flyer" 1567391527
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1550406775 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/share/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1550406775 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/share/texmf-dist/fonts/tfm/bitstrea/charter/bchb7t.tfm" 1550406775 2732 006d846b4d54f9b40899c7c3eecd771a ""
@@ -81,12 +81,12 @@
   "/var/lib/texmf/web2c/xetex/xelatex.fmt" 1553041461 4098330 208f7e0133643f6d8ddaa0117dfbf613 ""
   "anu-logo-2.png" 1564598320 20066 bda2ae36c93640631055a2f5ae24fafd ""
   "qe-logo.png" 1563845455 1351 f308a0650d953a0e7068b583dbe6dd1a ""
-  "summer_course_flyer.aux" 1566357196 954 cc3e43abadad2969467dbd1a8bc563ec ""
-  "summer_course_flyer.bbl" 1566357195 1094 fd672d2f6cfc5c7ed63c835b03a11cbb "bibtex summer_course_flyer"
-  "summer_course_flyer.out" 1566357196 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "summer_course_flyer.tex" 1566357193 7614 988ae265d5d0926f646f24603cf97730 ""
+  "summer_course_flyer.aux" 1567391527 954 cc3e43abadad2969467dbd1a8bc563ec ""
+  "summer_course_flyer.bbl" 1567390368 1094 fd672d2f6cfc5c7ed63c835b03a11cbb "bibtex summer_course_flyer"
+  "summer_course_flyer.out" 1567391527 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "summer_course_flyer.tex" 1567391526 7724 330ad8c09ebdadb020a308a4bf6989c0 ""
   (generated)
-  "summer_course_flyer.pdf"
   "summer_course_flyer.aux"
-  "summer_course_flyer.log"
   "summer_course_flyer.out"
+  "summer_course_flyer.pdf"
+  "summer_course_flyer.log"
